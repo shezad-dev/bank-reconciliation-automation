@@ -1,0 +1,20 @@
+# Credentials
+config.py
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated files
+*.pdf
+*.csv
+*.txt
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
