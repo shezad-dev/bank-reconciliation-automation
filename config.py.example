@@ -1,0 +1,6 @@
+# config.py.example
+# Copy this to config.py and add your credentials
+
+GMAIL_USER = "your_email@gmail.com"
+GMAIL_PASSWORD = "your_app_password"  # Get from Google App Passwords
+ALERT_EMAIL = "manager@company.com"
